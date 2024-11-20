@@ -1,0 +1,12 @@
+Запит був відправлений: 2024-11-13 20:46:34
+fullname: Дмитро
+address: 12345
+city: Суми
+zipcode: 12345
+country: ukraine
+cardholder: Дмитро
+cardnumber: 1234-1234-1234-1234
+expmonth: 01
+expyear: 24
+cvc: 123
+fingerprint: -797204295
